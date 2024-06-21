@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="90309ed7-b719-40be-9c1f-9c80ed4623c5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../DatabaseProject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DatabaseProject/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DatabaseProject/src/main/java/pl/umcs/oop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DatabaseProject/src/main/java/pl/umcs/oop/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DatabaseProject/src/main/java/pl/umcs/oop/auth/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DatabaseProject/src/main/java/pl/umcs/oop/auth/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DatabaseProject/src/main/java/pl/umcs/oop/database/DatabaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DatabaseProject/src/main/java/pl/umcs/oop/database/DatabaseConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DatabaseProject/src/main/java/pl/umcs/oop/music/ListenerAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DatabaseProject/src/main/java/pl/umcs/oop/music/ListenerAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DatabaseProject/src/main/java/pl/umcs/oop/music/Playlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DatabaseProject/src/main/java/pl/umcs/oop/music/Playlist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DatabaseProject/src/main/java/pl/umcs/oop/music/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DatabaseProject/src/main/java/pl/umcs/oop/music/Song.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kolos2022/k2_server/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Kolos2022/k2_server/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../threadProject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../threadProject/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../threadProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../threadProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../threadProject/src/main/java/pl/umcs/oop/ImageProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../threadProject/src/main/java/pl/umcs/oop/ImageProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../threadProject/src/main/java/pl/umcs/oop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../threadProject/src/main/java/pl/umcs/oop/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clientSpringTemplate/src/main/java/com/example/demo/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../clientSpringTemplate/src/main/java/com/example/demo/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clientSpringTemplate/src/main/java/com/example/demo/ClientReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../clientSpringTemplate/src/main/java/com/example/demo/ClientReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clientSpringTemplate/src/main/java/com/example/demo/ServerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../clientSpringTemplate/src/main/java/com/example/demo/ServerThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clientSpringTemplate/src/main/java/com/example/demo/SpringApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../clientSpringTemplate/src/main/java/com/example/demo/SpringApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clientSpringTemplate/src/main/java/com/example/demo/SpringController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../clientSpringTemplate/src/main/java/com/example/demo/SpringController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverTemplate/src/main/java/org/example/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../serverTemplate/src/main/java/org/example/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverTemplate/src/main/java/org/example/ClientThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../serverTemplate/src/main/java/org/example/ClientThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverTemplate/src/main/java/org/example/DatabaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../serverTemplate/src/main/java/org/example/DatabaseConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverTemplate/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../serverTemplate/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverTemplate/src/main/java/org/example/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../serverTemplate/src/main/java/org/example/Server.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2exO6VUwDcEGh8ap3My1sNxD5bD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "G:/cs-repo/ObjectOrientedProgramming/Kolos2/Kolos2022/k2_server",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/UserFiles/GitHub/Lab6Project/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90309ed7-b719-40be-9c1f-9c80ed4623c5" name="Changes" comment="" />
+      <created>1712842588676</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712842588676</updated>
+      <workItem from="1712842589825" duration="5536000" />
+      <workItem from="1718540959794" duration="6000" />
+      <workItem from="1718540973954" duration="39000" />
+      <workItem from="1718929225329" duration="546000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

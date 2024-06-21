@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- The character encoding for the document is set to UTF-8 -->
+    <meta charset="UTF-8">
+    <!-- The title of the document is set to "EEG image" -->
+    <title>EEG image</title>
+</head>
+<body>
+<!-- A heading is created with the text "Image:" -->
+<h3>Image:</h3>
+<!-- A div element is created to contain the image -->
+<div>
+    <!-- An image element is created. The source of the image is set to a base64 encoded string, which is retrieved from the "image" attribute of the model.
+         If the image cannot be displayed, the text "image" will be shown as an alternative. -->
+    <img th:src="'data:image/png;base64,' + ${image}" alt="image"/>
+</div>
+</body>
+</html>

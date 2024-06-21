@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e14736f-9474-4d6e-ac6b-fc45680a8237" name="Changes" comment="Wshisper">
+      <change afterPath="$PROJECT_DIR$/../../eeg/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../eeg/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../eeg/src/main/java/pl/umcs/oop/client/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../eeg/src/main/java/pl/umcs/oop/databasecreator/Creator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../eeg/src/main/java/pl/umcs/oop/server/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../eeg/src/main/java/pl/umcs/oop/server/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../eeg/tm00.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../eegweb/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../eegweb/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../eegweb/src/main/java/pl/umcs/oop/eegweb/ImageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../eegweb/src/main/resources/templates/eegimage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2021OOP/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2021OOP/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2021OOP/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2021OOP/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2021OOP/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2021OOP/Kolos2021OOP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2021OOP/assets/confirmed_cases.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2021OOP/assets/deaths.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2021OOP/assets/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2021OOP/src/Country.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2021OOP/src/CountryNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2021OOP/src/CountryWithProvinces.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2021OOP/src/CountryWithoutProvinces.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2021OOP/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/Kolos2021OOp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/food/buraki.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/food/cebula.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/food/chleb_pszenno-zytni.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/food/cukier.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/food/filet_z_morszczuka.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/food/jablka.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/food/jaja.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/food/kasza_jeczmienna.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/food/kielbasa_wedzona.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/food/kurczeta_patroszone.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/food/maka_pszenna.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/food/marchew.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/food/maslo.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/food/mieso_wieprzowe_bez_kosci.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/food/mieso_wolowe_bez_kosci.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/food/mieso_wolowe_z_koscia.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/food/mleko.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/food/olej_rzepakowy.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/food/poledwica_drobiowa.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/food/pomarancze.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/food/ser_twarogowy.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/food/sok_jablkowy.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/food/szynka_wieprzowa.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/food/ziemniaki.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/nonfood/benzyna.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/nonfood/bielizna_poscielowa.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/nonfood/bilet_do_kina.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/nonfood/bilet_na_autobus.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/nonfood/bilet_na_autobus_miejski.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/nonfood/bilet_na_pociąg.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/nonfood/chlodziarko-zamrazarka.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/nonfood/ciepla_woda.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/nonfood/doxycyclinum.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/nonfood/energia_elektryczna.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/nonfood/garnitur.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/nonfood/gaz_ziemny.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/nonfood/geriavit.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/nonfood/ibuprofen.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/nonfood/koszula_meska.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/nonfood/mycie_samochodu.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/nonfood/mydlo.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/nonfood/odkurzacz.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/nonfood/olej_napedowy.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/nonfood/pasta_do_zebow.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/nonfood/polbuty_damskie.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/nonfood/polbuty_dzieciece.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/nonfood/polbuty_meskie.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/nonfood/pralka.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/nonfood/proszek_do_prania.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/nonfood/przejazd_taksowka.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/nonfood/spodnie.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/nonfood/strzyzenie_wlosow_meskich.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/nonfood/szampon.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/nonfood/telewizor.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/nonfood/tkanina_sukienkowa.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/nonfood/upranie_bielizny_posielowej.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/nonfood/wizyta_u_lekarza_specjalisty.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/data/nonfood/znaczek_pocztowy.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/src/AmbigiousProductException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/src/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/src/FoodProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/src/NonFoodProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2022OOP/src/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2023OOP/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2023OOP/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2023OOP/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2023OOP/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2023OOP/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2023OOP/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2023OOP/src/main/java/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2023OOP/src/main/java/source/City.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2023OOP/src/main/java/source/Land.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2023OOP/src/main/java/source/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2023OOP/src/main/java/source/Polygon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2023OOP/src/main/java/source/Resource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2023OOP/src/test/java/source/CityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/Kolos2023OOP/src/test/java/source/PolygonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/PowtorzenieDoKolosa1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/PowtorzenieDoKolosa1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/PowtorzenieDoKolosa1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/PowtorzenieDoKolosa1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/PowtorzenieDoKolosa1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/PowtorzenieDoKolosa1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/PowtorzenieDoKolosa1/PowtorzenieLab.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/PowtorzenieDoKolosa1/icd10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/PowtorzenieDoKolosa1/src/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/PowtorzenieDoKolosa1/src/source/DeathCauseStatistic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/PowtorzenieDoKolosa1/src/source/DeathCauseStatisticList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/PowtorzenieDoKolosa1/src/source/ICDCodeTabular.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/PowtorzenieDoKolosa1/src/source/ICDCodeTabularOptimizedForMemory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/PowtorzenieDoKolosa1/src/source/ICDCodeTabularOptimizedForTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/PowtorzenieDoKolosa1/zgony.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/secondLabProject/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/secondLabProject/.idea/copilot/chatSessions/00000000000.xd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/secondLabProject/.idea/copilot/chatSessions/blobs/version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/secondLabProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/secondLabProject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/secondLabProject/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/secondLabProject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/secondLabProject/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/secondLabProject/UMLOutput/uml.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/secondLabProject/UMLOutput/uml.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/secondLabProject/family.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/secondLabProject/family.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/secondLabProject/plantuml-1.2024.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/secondLabProject/secondLabProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/secondLabProject/src/Exceptions/AmbiguousPersonException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/secondLabProject/src/Exceptions/NegativeLifespanException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/secondLabProject/src/Exceptions/ParentingAgeException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/secondLabProject/src/Exceptions/UndefinedParentException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/secondLabProject/src/Main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/secondLabProject/src/Person/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/secondLabProject/src/Person/PersonWithParentNames.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/secondLabProject/src/UML/PlantUMLRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/svgLabProject/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/svgLabProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/svgLabProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/svgLabProject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/svgLabProject/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/svgLabProject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/svgLabProject/src/Decorators/DropShadowDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/svgLabProject/src/Decorators/GradientFillShapeDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/svgLabProject/src/Decorators/ShapeDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/svgLabProject/src/Decorators/SolidFillShapeDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/svgLabProject/src/Decorators/StrokeShapeDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/svgLabProject/src/Decorators/TransformationDecoration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/svgLabProject/src/Figures/Ellipse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/svgLabProject/src/Figures/Polygon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/svgLabProject/src/Figures/Segment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/svgLabProject/src/Figures/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/svgLabProject/src/Figures/Style.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/svgLabProject/src/Figures/Vec2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/svgLabProject/src/Main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/svgLabProject/src/OutputClasses/SvgScene.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kolos1/svgLabProject/svgLabProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatProject/ChatClient/src/main/java/org/example/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatProject/ChatClient/src/main/java/org/example/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatProject/ChatClient/src/main/java/org/example/ConnectionThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatProject/ChatClient/src/main/java/org/example/ConnectionThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatProject/ChatClient/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatProject/ChatClient/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatProject/ChatClient/src/main/java/org/example/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatProject/ChatClient/src/main/java/org/example/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatProject/ChatClient/src/main/java/org/example/MessageType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatProject/ChatClient/src/main/java/org/example/MessageType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatProject/ChatServer/src/main/java/org/example/ClientThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatProject/ChatServer/src/main/java/org/example/ClientThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatProject/ChatServer/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatProject/ChatServer/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatProject/ChatServer/src/main/java/org/example/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatProject/ChatServer/src/main/java/org/example/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatProject/ChatServer/src/main/java/org/example/MessageType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatProject/ChatServer/src/main/java/org/example/MessageType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatProject/ChatServer/src/main/java/org/example/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatProject/ChatServer/src/main/java/org/example/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomList/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomList/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomList/src/CustomList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomList/src/CustomList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomList/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomList/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DatabaseProject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DatabaseProject/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DatabaseProject/src/main/java/pl/umcs/oop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DatabaseProject/src/main/java/pl/umcs/oop/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DatabaseProject/src/main/java/pl/umcs/oop/auth/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DatabaseProject/src/main/java/pl/umcs/oop/auth/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DatabaseProject/src/main/java/pl/umcs/oop/database/DatabaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DatabaseProject/src/main/java/pl/umcs/oop/database/DatabaseConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DatabaseProject/src/main/java/pl/umcs/oop/music/ListenerAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DatabaseProject/src/main/java/pl/umcs/oop/music/ListenerAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DatabaseProject/src/main/java/pl/umcs/oop/music/Playlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DatabaseProject/src/main/java/pl/umcs/oop/music/Playlist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DatabaseProject/src/main/java/pl/umcs/oop/music/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DatabaseProject/src/main/java/pl/umcs/oop/music/Song.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DatabaseProject/src/test/java/pl/umcs/oop/music/ListenerAccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DatabaseProject/src/test/java/pl/umcs/oop/music/ListenerAccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DatabaseProject/src/test/java/pl/umcs/oop/music/PlaylistTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DatabaseProject/src/test/java/pl/umcs/oop/music/PlaylistTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DatabaseProject/src/test/java/pl/umcs/oop/music/SongTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DatabaseProject/src/test/java/pl/umcs/oop/music/SongTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kolos2022/k2_client/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Kolos2022/k2_client/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kolos2022/k2_client/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Kolos2022/k2_client/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kolos2022/k2_client/src/main/java/org/example/k2_client/ClientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Kolos2022/k2_client/src/main/java/org/example/k2_client/ClientApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kolos2022/k2_client/src/main/java/org/example/k2_client/ClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Kolos2022/k2_client/src/main/java/org/example/k2_client/ClientController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kolos2022/k2_client/src/main/java/org/example/k2_client/ClientReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Kolos2022/k2_client/src/main/java/org/example/k2_client/ClientReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kolos2022/k2_client/src/main/java/org/example/k2_client/ConnectionThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Kolos2022/k2_client/src/main/java/org/example/k2_client/ConnectionThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kolos2022/k2_client/src/main/java/org/example/k2_client/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Kolos2022/k2_client/src/main/java/org/example/k2_client/Word.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kolos2022/k2_server/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Kolos2022/k2_server/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kolos2022/k2_server/src/ClientThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Kolos2022/k2_server/src/ClientThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kolos2022/k2_server/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Kolos2022/k2_server/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kolos2022/k2_server/src/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Kolos2022/k2_server/src/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kolos2022/k2_server/src/WordBag.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Kolos2022/k2_server/src/WordBag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../threadProject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../threadProject/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../threadProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../threadProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../threadProject/src/main/java/pl/umcs/oop/ImageProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../threadProject/src/main/java/pl/umcs/oop/ImageProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../threadProject/src/main/java/pl/umcs/oop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../threadProject/src/main/java/pl/umcs/oop/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clientSpringTemplate/src/main/java/com/example/demo/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../clientSpringTemplate/src/main/java/com/example/demo/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clientSpringTemplate/src/main/java/com/example/demo/ClientReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../clientSpringTemplate/src/main/java/com/example/demo/ClientReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clientSpringTemplate/src/main/java/com/example/demo/ServerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../clientSpringTemplate/src/main/java/com/example/demo/ServerThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clientSpringTemplate/src/main/java/com/example/demo/SpringApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../clientSpringTemplate/src/main/java/com/example/demo/SpringApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clientSpringTemplate/src/main/java/com/example/demo/SpringController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../clientSpringTemplate/src/main/java/com/example/demo/SpringController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clientSpringTemplate/src/test/java/com/example/demo/DemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../clientSpringTemplate/src/test/java/com/example/demo/DemoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverTemplate/src/main/java/org/example/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverTemplate/src/main/java/org/example/ClientThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../serverTemplate/src/main/java/org/example/ClientThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverTemplate/src/main/java/org/example/DatabaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../serverTemplate/src/main/java/org/example/DatabaseConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverTemplate/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../serverTemplate/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverTemplate/src/main/java/org/example/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../serverTemplate/src/main/java/org/example/Server.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;damiankawerski&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/damiankawerski/WebServerProject.git&quot;,
+    &quot;accountId&quot;: &quot;b10235ed-b03e-453c-8883-7e812b6b03f2&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2grxijQeGNrGyiNhrdUClFuiahk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.DemoApplication.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.DemoApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "G:/cs-repo/ObjectOrientedProgramming/Kolos2/Kolos2022/k2_client",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/home/damian/IdeaProjects/WebServerProject/src/main/java/org/example/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\UserFiles\GIT\ObjectOrientedProgramming\Kolos2\WebServerProject\src\main\java\com\example\demo" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e14736f-9474-4d6e-ac6b-fc45680a8237" name="Changes" comment="" />
+      <created>1716469626930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716469626930</updated>
+      <workItem from="1717343231576" duration="3557000" />
+      <workItem from="1717354968926" duration="835000" />
+      <workItem from="1717358338137" duration="39000" />
+      <workItem from="1717362644583" duration="1942000" />
+      <workItem from="1717516908930" duration="389000" />
+      <workItem from="1718554744884" duration="3185000" />
+      <workItem from="1718558217078" duration="10000" />
+      <workItem from="1718929875939" duration="2244000" />
+    </task>
+    <task id="LOCAL-00001" summary="kk">
+      <option name="closed" value="true" />
+      <created>1717345117789</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717345117789</updated>
+    </task>
+    <task id="LOCAL-00002" summary="kk">
+      <option name="closed" value="true" />
+      <created>1717345403674</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717345403674</updated>
+    </task>
+    <task id="LOCAL-00003" summary="svg">
+      <option name="closed" value="true" />
+      <created>1717347343126</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717347343126</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Wshisper">
+      <option name="closed" value="true" />
+      <created>1718554778489</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718554778489</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="kk" />
+    <MESSAGE value="svg" />
+    <MESSAGE value="Wshisper" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wshisper" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
